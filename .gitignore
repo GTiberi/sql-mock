@@ -1,0 +1,6 @@
+practice.db
+*.db
+__pycache__/
+.coverage
+.pytest_cache/
+
